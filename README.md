@@ -2,13 +2,13 @@
 
 ## What is this repo
 
-This repository contains all the code used to generate the animations for the video ["PCA在平面拟合中的应用"](https://youtu.be/o_cAOa5fMhE) on the bilibili channel [一YiMi n g](https://space.bilibili.com/496878537?spm_id_from=333.788.0.0).
+This repository contains all the code used to generate the animations for the video ["PCA在平面拟合中的应用"]() on the bilibili channel [一YiMi n g](https://space.bilibili.com/496878537?spm_id_from=333.788.0.0).
 
 All references to the script and the voiceover service have been removed, so you are left with only raw animations.
 
 There is no guarantee that any of these scripts can actually run. The code was not meant to be re-used, so it might need some external data in some places that I may or may have not put in this repository.
 
-You can reuse any piece of code to make the same visualizations, crediting the bilibili channel [Deepia](https://space.bilibili.com/496878537?spm_id_from=333.788.0.0) would be nice but is not required.
+You can reuse any piece of code to make the same visualizations, crediting the bilibili channel [一YiMi n g](https://space.bilibili.com/496878537?spm_id_from=333.788.0.0) would be nice but is not required.
 
 ## Environment
 
